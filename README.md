@@ -1,7 +1,7 @@
 # OctMole: Multiscale 3D Molecular Generation with Hierarchical Spatial Flows
 
 A 3D molecule generative model jointly conducted by researchers from Peking
-University and BAAI; the paper is available [here](TODO).
+University and BAAI; the paper is available [here](https://arxiv.org/abs/2610.16586).
 
 OctMole is a two-stage generative model for 3D molecules. The first stage
 generates a sparse hierarchical occupancy octree. The second stage predicts an
